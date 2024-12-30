@@ -1,3 +1,3 @@
-module github.com/joafabian/greetings
+module github.com/Joafabian/greetings
 
 go 1.23.2
